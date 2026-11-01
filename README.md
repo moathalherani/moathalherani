@@ -1,4 +1,6 @@
-# Eng. Moath Alherani (المهندس معاذ الهريني)
+# Eng. Moath Alherani
+
+<p dir="rtl"><strong>المهندس معاذ الهريني</strong></p>
 
 Content creator in Dubai. I make Arabic videos about AI, technology and cars, and I write free guides for the tools I show on my website.
 
