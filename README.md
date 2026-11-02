@@ -12,6 +12,7 @@ Civil engineer by background, and founder of Atwaar and Sakani in Dubai.
 
 | Guide | English | العربي |
 | --- | --- | --- |
+| Claude and Claude Code: beginner guide | [Read](https://moathalherani.com/claude-guide) | [اقرأ](https://moathalherani.com/ar/claude-guide) |
 | Claude skills: install guides for Claude Code | [Read](https://moathalherani.com/claude-skills) | [اقرأ](https://moathalherani.com/ar/claude-skills) |
 | Instagram Agent Skill | [Read](https://moathalherani.com/instagram-agent-skill) | [اقرأ](https://moathalherani.com/ar/instagram-agent-skill) |
 | YouTube Agent: 11 creator skills | [Read](https://moathalherani.com/youtube-agent) | [اقرأ](https://moathalherani.com/ar/youtube-agent) |
